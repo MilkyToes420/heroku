@@ -1,0 +1,9 @@
+{
+	"ip":"GalaxyEliteSMP69.aternos.me",
+	"port": 42947,
+	"name": "Deez Nuts",
+	"auto-night-skip":"true",
+	"login-enabled":"true",
+	"register-cmd":"/register 12345",
+	"login-cmd":"/login 12345"
+}
